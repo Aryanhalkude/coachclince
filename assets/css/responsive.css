@@ -1,0 +1,386 @@
+@media (max-width: 1920px) {
+}
+
+@media (max-width: 1680px) {
+}
+
+@media (max-width: 1440px) {
+}
+
+@media (max-width: 1360px) {
+}
+
+@media (max-width: 1200px) {
+    .about-us-image::before {
+        height: 520px;
+        width: 370px;
+    }
+
+    .section-title {
+        font-size: 48px;
+    }
+
+    .sign-div h4 {
+        font-size: 48px;
+    }
+
+    .navbar-brand img {
+        width: 220px;
+    }
+
+    .nav-link {
+        font-size: 14px;
+    }
+
+    .search-btn img {
+        height: 20px;
+    }
+
+    .search-btn {
+        padding-left: 10px;
+        margin-left: 10px;
+    }
+
+    .banner-form h1 {
+        font-size: 30px;
+        line-height: inherit;
+    }
+
+    .inspire-inner {
+        bottom: 125px;
+    }
+
+    .testimonials-carousel::before {
+        height: 130px;
+        width: 130px;
+        top: -65px;
+    }
+
+    .testimonials-carousel::after {
+        height: 130px;
+        width: 130px;
+        bottom: -65px;
+    }
+
+    .feature-inner h5 {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 992px) {
+    .banner-carousel .carousel-item > img {
+        height: 100%;
+        width: auto;
+    }
+
+    .banner-carousel .carousel-item {
+        height: 600px;
+    }
+
+    a.search-btn {
+        display: none;
+    }
+
+    .navbar-toggler img {
+        height: 40px;
+    }
+
+    .navbar-brand img {
+        height: 50px;
+        width: auto;
+    }
+
+    .navbar-nav li {
+        border-top: 1px solid #dddddd;
+    }
+
+    .banner-form {
+        background: rgba(255, 255, 255, 0.9);
+    }
+
+    .carousel-caption {
+        top: 0;
+        bottom: auto;
+    }
+
+    .banner-form h1 {
+        font-size: 24px;
+        margin: 0;
+    }
+
+    .banner-form {
+        padding: 20px;
+    }
+
+    .form-control {
+        padding: 10px;
+        font-size: 14px;
+    }
+
+    .blue-btn {
+        padding: 10px 20px;
+        font-size: 14px;
+    }
+
+    .about-us-image .embed-responsive {
+        width: 100%;
+    }
+
+    .about-us-image::before {
+        width: 310px;
+        height: 440px;
+    }
+
+    .section-title {
+        font-size: 40px;
+    }
+
+    .about-us p {
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+
+    .clients h2 {
+        font-size: 30px;
+    }
+
+    .testimonials-carousel h3 {
+        width: 100%;
+    }
+
+    ul.footer-links li a {
+        line-height: inherit;
+        font-size: 16px;
+    }
+
+    .footer-brand {
+        margin-bottom: 15px;
+    }
+
+    ul.social-media-links li a {
+        line-height: inherit;
+    }
+
+    .contact-info {
+        margin-bottom: 10px;
+    }
+
+    .footer-bottom .text-right {
+        text-align: left !important;
+    }
+
+    .feature-inner h5 {
+        font-size: 14px;
+        width: 90%;
+    }
+
+}
+
+@media (max-width: 768px) {
+	.carousel-caption {
+        top: 0;
+        bottom: auto;
+        left: 5%;
+    }
+
+    .banner-form {
+        width: auto;
+    }
+
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+
+    .happiness-habit-mobile {
+        display: block;
+    }
+
+    .happiness-habit-desktop {
+        display: none;
+    }
+
+    ul.social-media-links {
+        margin-top: 15px;
+    }
+
+    .feature-inner {
+        margin-bottom: 50px;
+    }
+
+    .about-us-image {
+        margin-top: 30px;
+    }
+
+    .testimonials-carousel h3 {
+        font-size: 24px;
+    }
+
+    .inspire-inner h2 {
+        font-size: 48px;
+    }
+
+    .inspire-inner h3 {
+        font-size: 32px;
+    }
+
+    .inspire-inner .white-btn {
+        font-size: 18px;
+        padding: 15px;
+        margin: 0;
+    }
+}
+
+@media (max-width: 576px) {
+    .banner-form h1 {
+        font-size: 18px;
+    }
+
+    .testimonials-carousel h3 {
+        font-size: 24px;
+    }
+
+    .section-title {
+        font-size: 36px;
+    }
+
+    .happiness-habit-mobile-inner {
+        height: auto;
+    }
+
+    .testimonials-carousel h3 {
+        font-size: 24px;
+    }
+
+    .section-title {
+        font-size: 36px;
+    }
+
+    .happiness-habit-mobile-inner {
+        height: auto;
+    }
+
+    .inspire-inner {
+        width: 100%;
+        position: relative;
+        bottom: 0;
+        background: rgba(41, 54, 145, 0.2);
+        margin-top: -10px;
+        padding: 20px;
+    }
+
+    .inspire-inner h3 {
+        font-size: 24px;
+        color: #293691;
+    }
+
+    .inspire-inner h2 {
+        font-size: 36px;
+        color: #293691;
+    }
+
+    .inspire-inner .white-btn {
+        padding: 10px 20px;
+        font-size: 14px;
+    }
+
+    .testimonials-carousel {
+        padding: 50px 0;
+    }
+
+    .carousel-caption {
+        left: 10%;
+        right: 10%;
+    }
+
+    .testimonials-carousel::before, .testimonials-carousel::after, .about-us-image::before {
+        display: none;
+    }
+
+    .feature {
+        margin-top: 0;
+    }
+}
+
+@media (max-width: 480px) {
+
+    .navbar-brand img {
+        height: 40px;
+    }
+
+    .navbar-toggler img {
+        height: 30px;
+    }
+
+    header {
+        padding: 0;
+    }
+
+    .section-title {
+        font-size: 24px;
+        margin: 0;
+    }
+
+    .testimonials-carousel h3 {
+        font-size: 18px;
+        padding: 0 20px;
+    }
+
+    .section-title {
+        font-size: 24px;
+        margin: 0;
+    }
+
+    .testimonials-carousel h3 {
+        font-size: 18px;
+        padding: 0 20px;
+    }
+
+    .contact-us {
+        padding: 50px 0;
+    }
+
+    .contact-us .section-title {
+        margin-bottom: 30px;
+    }
+
+    footer {
+        padding: 10px;
+    }
+
+    .footer-brand {
+        height: 40px;
+    }
+
+    ul.footer-links li a {
+        font-size: 14px;
+    }
+
+    .contact-info {
+        display: block;
+    }
+
+    .contact-info li ~ li {
+        margin: 10px 0 0 0;
+    }
+
+    .contact-info li ~ li::before {
+        display: none;
+    }
+
+    ul.footer-links {
+        display: block;
+    }
+
+    ul.footer-links li ~ li {
+        margin: 0;
+        padding: 0;
+        border: none;
+    }
+
+    .banner-carousel .carousel-item > img {
+        left: -50%;
+    }
+}
+
+@media (max-width: 320px) {
+}
